@@ -8,12 +8,6 @@ actionLink <- function(inputId, ...) {
          ...)
 }
 
-
-#NEXT: SHOW DISTANCE MATRIX
-#THINK IF IT WOULD BE A GOOD IDEA TO DISPLAY ALL POSSIBLE USERNAMES.
-#A LINK TO THE CODE
-
-
 shinyUI(fluidPage(
   titlePanel("Build your own Recommender System!"),
   fluidRow(
